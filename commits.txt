@@ -1,0 +1,17 @@
+commit 3c9d393cbc3ca7a3776c43e2a27827e56a037033
+Author: Santiago Benitez <sbenitez@unicauca.edu.co>
+Date:   Sat Apr 17 11:24:54 2021 -0500
+
+    Agrega Pedir y mostrar datos
+
+commit 807824671729e9bea2030825df6141824c8c283c
+Author: Santiago Benitez <sbenitez@unicauca.edu.co>
+Date:   Sat Apr 17 10:58:59 2021 -0500
+
+    Se agregan las estructuras repetitivas en un archivo.py
+
+commit 8f7dfb2daeec44e0de9647d676a988e9e71fcb28
+Author: Santiago Benitez <sbenitez@unicauca.edu.co>
+Date:   Sat Apr 17 10:54:55 2021 -0500
+
+    Iniciamos
